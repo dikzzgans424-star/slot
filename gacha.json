@@ -1,14 +1,3 @@
 {
-  "gacha": [
-    {
-      "idgacha": "#GCH-8K36S4YLNHXN",
-      "user": "6285810287828@s.whatsapp.net",
-      "money": 500000,
-      "isPremium": true,
-      "status": false,
-      "result": null,
-      "claimed": false,
-      "createdAt": 1780845533935
-    }
-  ]
+  "gacha": []
 }
