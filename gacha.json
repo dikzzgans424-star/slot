@@ -219,6 +219,17 @@
       "claimed": false,
       "createdAt": 1780924707882,
       "finishedAt": 1780924772414
+    },
+    {
+      "idgacha": "#GCH-FKBAIIC2Q791",
+      "user": "6285810287828@s.whatsapp.net",
+      "money": 500000,
+      "isPremium": true,
+      "type": "slot3x3",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "createdAt": 1780937224089
     }
   ]
 }
