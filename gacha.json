@@ -453,6 +453,20 @@
       "finishedAt": 1780979471332,
       "claimedAt": 1780979473299,
       "perubahan": -500000
+    },
+    {
+      "idgacha": "#GCH-1QH7K45QLCER",
+      "user": "6285810287828@s.whatsapp.net",
+      "chatId": "6285810287828@s.whatsapp.net",
+      "money": 1000000,
+      "isPremium": true,
+      "type": "horserace",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "processing": false,
+      "createdAt": 1780979490122,
+      "finishedAt": null
     }
   ]
 }
