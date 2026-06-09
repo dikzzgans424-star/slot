@@ -485,6 +485,20 @@
       "finishedAt": 1780979582865,
       "claimedAt": 1780979598383,
       "perubahan": 1000000
+    },
+    {
+      "idgacha": "#GCH-G1O6AS1KKWAD",
+      "user": "6285810287828@s.whatsapp.net",
+      "chatId": "6285810287828@s.whatsapp.net",
+      "money": 500000,
+      "isPremium": true,
+      "type": "roulette",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "processing": false,
+      "createdAt": 1780979618543,
+      "finishedAt": null
     }
   ]
 }
