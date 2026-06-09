@@ -509,12 +509,12 @@
       "money": 1000000,
       "isPremium": true,
       "type": "roulette",
-      "status": false,
-      "result": null,
+      "status": true,
+      "result": "win",
       "claimed": false,
       "processing": false,
       "createdAt": 1780979674126,
-      "finishedAt": null
+      "finishedAt": 1780979693135
     }
   ]
 }
