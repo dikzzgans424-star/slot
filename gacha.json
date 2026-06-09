@@ -463,10 +463,12 @@
       "type": "horserace",
       "status": true,
       "result": "lose",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780979490122,
-      "finishedAt": 1780979530160
+      "finishedAt": 1780979530160,
+      "claimedAt": 1780979534759,
+      "perubahan": -1000000
     }
   ]
 }
