@@ -397,12 +397,12 @@
       "money": 500000,
       "isPremium": true,
       "type": "horserace",
-      "status": false,
-      "result": null,
+      "status": true,
+      "result": "lose",
       "claimed": false,
       "processing": false,
       "createdAt": 1780977635187,
-      "finishedAt": null
+      "finishedAt": 1780977676356
     }
   ]
 }
