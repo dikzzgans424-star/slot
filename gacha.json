@@ -307,7 +307,7 @@
       "type": "slot3x3",
       "status": true,
       "result": "lose",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780963011380,
       "finishedAt": 1780963042755
