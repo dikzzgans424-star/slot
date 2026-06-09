@@ -1,20 +1,6 @@
 {
   "gacha": [
     {
-      "idgacha": "#GCH-8GIKCLT2WACE",
-      "user": "6285810287828@s.whatsapp.net",
-      "money": 1000000,
-      "isPremium": true,
-      "type": "slot3x3",
-      "status": true,
-      "result": "lose",
-      "claimed": true,
-      "createdAt": 1780877810881,
-      "finishedAt": 1780877823645,
-      "claimedAt": 1780877838358,
-      "perubahan": -1000000
-    },
-    {
       "idgacha": "#GCH-SYRRBZ6V3PNQ",
       "user": "6285810287828@s.whatsapp.net",
       "money": 100000,
