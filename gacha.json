@@ -341,6 +341,20 @@
       "finishedAt": 1780974435687,
       "claimedAt": 1780976224160,
       "perubahan": 500000
+    },
+    {
+      "idgacha": "#GCH-FBCO2FZRX9ZY",
+      "user": "6285810287828@s.whatsapp.net",
+      "chatId": "6285810287828@s.whatsapp.net",
+      "money": 500000,
+      "isPremium": true,
+      "type": "coinflip",
+      "status": false,
+      "result": null,
+      "claimed": false,
+      "processing": false,
+      "createdAt": 1780976232400,
+      "finishedAt": null
     }
   ]
 }
