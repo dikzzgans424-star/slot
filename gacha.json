@@ -511,10 +511,12 @@
       "type": "roulette",
       "status": true,
       "result": "win",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780979674126,
-      "finishedAt": 1780979693135
+      "finishedAt": 1780979693135,
+      "claimedAt": 1780979742623,
+      "perubahan": 1000000
     }
   ]
 }
