@@ -479,10 +479,12 @@
       "type": "roulette",
       "status": true,
       "result": "win",
-      "claimed": false,
+      "claimed": true,
       "processing": false,
       "createdAt": 1780979560263,
-      "finishedAt": 1780979582865
+      "finishedAt": 1780979582865,
+      "claimedAt": 1780979598383,
+      "perubahan": 1000000
     }
   ]
 }
