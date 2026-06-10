@@ -57,7 +57,7 @@
     {
       "token": "TKNMQ7MK7F5XY6",
       "owner": "6285810287828@s.whatsapp.net",
-      "balance": 687,
+      "balance": 587,
       "status": "active",
       "isPremium": true,
       "history": [
@@ -312,6 +312,13 @@
           "result": "win",
           "change": 207,
           "at": 1781114671324
+        },
+        {
+          "game": "spaceman",
+          "bet": 100,
+          "result": "lose",
+          "change": -100,
+          "at": 1781114689833
         }
       ],
       "createdAt": 1781069108369
